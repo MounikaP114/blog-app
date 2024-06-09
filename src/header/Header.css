@@ -1,0 +1,26 @@
+.header-start{
+
+ 
+}
+.header{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+
+}
+.headerNameSm{
+    top: 20px;
+    font-size: 25px;
+
+
+}
+.headerNameLg{
+    top:10px;
+    font-size: 90px;
+
+}
+.header-image{
+    
+}
