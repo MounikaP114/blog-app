@@ -12,7 +12,7 @@ function Post() {
                 <div className='postcat'>item1</div>
                 <div className='postcat'>item2</div>
             </div>
-        <span className='postTitle'>Incididunt aliqua eiusmod irure fugiat</span><hr/>
+        <span className='postTitle'>Incididunt aliqua eiusm</span><hr/>
         <span className='postDate'>1 hour ago</span>
         <div  className='postDescription'>Adipisicing officia amet enim voluptate sunt consequat nostrud in adipisicing. Incididunt in cupidatat sunt sunt est veniam elit pariatur cillum culpa dolor adipisicing voluptate. Labore ea occaecat cillum non Lorem ut esse mollit nulla.</div>
 

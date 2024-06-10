@@ -18,19 +18,33 @@
     justify-content: center;
 }
 .postCategories{
-    margin-top: 18px;
+    display: flex;
+    margin-top: 15px;
+    color: rgb(45, 45, 45);
+    font-size: 10px;
+    font-family: 'Josefin', sans-serif;
 }
 .postcat{
-    font-size: 18px;
+    margin: 0px 5px;
+    
 }
 .postTitle{
     margin-top: 18px;
     font-size: 25px; 
-    font-family: "Varela", sans-serif;  
+    font-family: "Varela", sans-serif;
+    font-weight: bold;  
+    font-display: wrap;
+    cursor: pointer;
+}
+.postDate{
+    font-size:10px;
+    font-family: 'josefin', sans-serif;
+    margin-top: 18px;
 }
 .postDescription{
     margin-top: 18px;
     font-size: 15px;
     font-family: "lora", sans-serif;
+    line-height:25px;
 }
 

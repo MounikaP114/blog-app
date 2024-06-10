@@ -1,6 +1,7 @@
 .sidebar{
     flex:2;
     background-color: rgb(246, 246, 246);
+    height: auto;
 }
 .sideBarItem{
     margin-top: 18px;
