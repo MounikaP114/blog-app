@@ -8,6 +8,7 @@
     align-items: center;
     font-family:'josefin Sans',sans-serif;
     margin-top: 10px;
+    z-index: 999;
     
 }
 .top-left, .top-right{
